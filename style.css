@@ -1,0 +1,11 @@
+h2{
+	width: 450px;
+	}
+	.main{
+		display: flex;
+		height: 91vh;
+		justify-content: center;
+		align-items: center;
+    	flex-wrap: nowrap;
+    	flex-direction: column;
+	}
